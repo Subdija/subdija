@@ -28,7 +28,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2>🚀 Mes compétences 🚀</h2></summary><br>
+    <summary><h2>🚀 Mes Compétences 🚀</h2></summary><br>
   </ul>
 </div>
 
