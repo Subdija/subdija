@@ -10,7 +10,7 @@
   <img width="200" src="https://avatars.githubusercontent.com/u/105368200?v=4"></br></br>
 </div>
 
-<p>Je suis Ziyad CHAABI, un développeur web plein d'énergie et de créativité. Bienvenue dans mon univers déjanté sur GitHub !</p>
+<p>Je suis 𝗭𝗶𝘆𝗮𝗱 𝗖𝗛𝗔𝗔𝗕𝗜, un développeur web plein d'énergie et de créativité. Bienvenue dans mon univers déjanté sur GitHub !</p>
 
 <ul>
   <li>🚀 Code cosmique : Actuellement, je me lance dans des projets spatiaux incroyables, repoussant les limites du développement web jusqu'aux confins de la galaxie !</li>
