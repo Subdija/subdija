@@ -8,8 +8,6 @@ Je suis Ziyad CHAABI, un développeur web plein d'énergie et de créativité. B
 
 🎮 Fiesta du code : Quand je ne suis pas en train de plonger dans les lignes de code, tu me trouveras probablement en train de jouer à des jeux vidéo tout en résolvant des énigmes algorithmiques.
 
-🌐 Cyberespace personnel : Pour explorer mon univers web intergalactique, fais un saut sur mon site www.subdij.github.io/Portfolio-V2/ . Tu y trouveras des créations extraterrestres dignes d'une autre dimension !
-
 📱 Social cosmique : Si tu veux me contacter pour discuter de projets intergalactiques ou tout simplement pour partager des GIF hilarants, n'hésite pas à me rejoindre sur www.linkedin.com/in/ziyad-chaabi.
 
 ✨ Fun fact spatial : Savais-tu que j'ai une passion secrète pour les aliens du code ? Mes amis extraterrestres m'aident à résoudre les bugs les plus mystérieux de l'univers !
