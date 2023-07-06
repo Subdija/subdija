@@ -10,25 +10,25 @@
   <img width="200" src="https://avatars.githubusercontent.com/u/105368200?v=4"></br></br>
 </div>
 
-<p>Je suis 𝗭𝗶𝘆𝗮𝗱 𝗖𝗛𝗔𝗔𝗕𝗜, un développeur web plein d'énergie et de créativité. Bienvenue dans mon univers déjanté sur GitHub !</p>
+<p>I'm 𝗭𝗶𝘆𝗮𝗱 𝗖𝗛𝗔𝗔𝗕𝗜, a web developer full of energy and creativity. Welcome to my crazy world on GitHub!</p>
 
 <ul>
-  <li>🚀 Code cosmique : Actuellement, je me lance dans des projets spatiaux incroyables, repoussant les limites du développement web jusqu'aux confins de la galaxie !</li>
-  <li>🌌 Univers d'apprentissage : Je suis en constante expansion, explorant les dernières technologies comme un astronaute explorant de nouvelles planètes.</li>
-  <li>🎮 Fiesta du code : Quand je ne suis pas en train de plonger dans les lignes de code, tu me trouveras probablement en train de jouer à des jeux vidéo tout en résolvant des énigmes algorithmiques.</li>
-  <li>📱 Social cosmique : Si tu veux me contacter pour discuter de projets intergalactiques ou tout simplement pour partager des GIF hilarants, n'hésite pas à me rejoindre sur www.linkedin.com/in/ziyad-chaabi. </li>
-  <li>✨ Fun fact spatial : Savais-tu que j'ai une passion secrète pour les aliens du code ? Mes amis extraterrestres m'aident à résoudre les bugs les plus mystérieux de l'univers !</li>
+  <li>🚀 Cosmic code: I'm currently embarking on some incredible space projects, pushing the boundaries of web development to the far reaches of the galaxy!</li>
+  <li>🌌 Learning universe: I'm constantly expanding, exploring the latest technologies like an astronaut exploring new planets.</li>
+  <li>🎮 Code fiesta: When I'm not diving into lines of code, you'll probably find me playing video games while solving algorithmic puzzles.</li>
+  <li>📱 Cosmic social: If you want to get in touch with me to discuss intergalactic projects or simply to share hilarious GIFs, feel free to join me at www.linkedin.com/in/ziyad-chaabi.</li>
+  <li>✨ Space fun fact: Did you know I have a secret passion for code aliens? My alien friends help me solve the universe's most mysterious bugs!</li>
 </ul>
 
-<p>N'hésite pas à explorer mes dépôts intergalactiques. Si tu as des questions, des idées farfelues ou si tu veux simplement papoter, rejoins-moi dans cette aventure folle et fascinante de développement web !</p>
+<p>Feel free to explore my intergalactic repositories. If you have any questions, crazy ideas or just want to chat, join me on this crazy and fascinating web development adventure!</p>
 
-<p>Que la force du code soit avec toi ! 🚀🌟</p>
+<p>May the power of code be with you! 🚀🌟</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2>🚀 Mes Compétences 🚀</h2></summary><br>
+    <summary><h2>🚀 My Skills 🚀</h2></summary><br>
   </ul>
 </div>
 
